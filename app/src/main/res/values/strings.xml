@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Prova2B</string>
+    <string name="min">Min</string>
+    <string name="m_x">Máx</string>
+    <string-array name="Marca">
+        <item>Marca</item>
+        <item>Audi</item>
+        <item>Ferrari</item>
+        <item>Toyota</item>
+        <item>Chevrolet</item>
+        <item>Hyundai</item>
+        <item>BMW</item>
+        <item>Volkswagem</item>
+        <item>Fiat</item>
+    </string-array>
+    <string-array name="Combustivel">
+        <item>Combustivel</item>
+        <item>Álcool</item>
+        <item>Flex</item>
+        <item>Gás Natural</item>
+        <item>Diesel</item>
+    </string-array>
+    <string-array name="TipoVeiculo">
+        <item>Tipo</item>
+        <item>Conversível</item>
+        <item>Pick-up</item>
+        <item>Antigo</item>
+        <item>SUV</item>
+    </string-array>
+    <string-array name="QuilometragemDe">
+        <item>De</item>
+        <item>0</item>
+        <item>5.000</item>
+        <item>10.000</item>
+        <item>20.000</item>
+        <item>30.000</item>
+        <item>40.000</item>
+        <item>60.000</item>
+        <item>80.000</item>
+        <item>100.000</item>
+        <item>120.000</item>
+        <item>140.000</item>
+        <item>160.000</item>
+        <item>180.000</item>
+        <item>200.000</item>
+        <item>250.000</item>
+        <item>300.000</item>
+    </string-array>
+    <string-array name="QuilometragemAte">
+        <item>Ate</item>
+        <item>0</item>
+        <item>5.000</item>
+        <item>10.000</item>
+        <item>20.000</item>
+        <item>30.000</item>
+        <item>40.000</item>
+        <item>60.000</item>
+        <item>80.000</item>
+        <item>100.000</item>
+        <item>120.000</item>
+        <item>140.000</item>
+        <item>160.000</item>
+        <item>180.000</item>
+        <item>200.000</item>
+        <item>250.000</item>
+        <item>300.000</item>
+    </string-array>
+
+
+    <string-array name="TipoCasa">
+        <item>Tipo</item>
+        <item>Apartamento</item>
+        <item>Casa</item>
+    </string-array>
+    <string-array name="AreaDe">
+        <item>De</item>
+        <item>0</item>
+        <item>20</item>
+        <item>60</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>400</item>
+        <item>500</item>
+        <item>acima de 500</item>
+    </string-array>
+    <string-array name="AreaAte">
+        <item>Ate</item>
+        <item>0</item>
+        <item>20</item>
+        <item>60</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>400</item>
+        <item>500</item>
+        <item>acima de 500</item>
+    </string-array>
+</resources>
